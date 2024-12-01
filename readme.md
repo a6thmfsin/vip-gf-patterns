@@ -1,4 +1,4 @@
-[V.I.P. gf patterns]
+[b][ V.I.P. .gf patterns ][/b]
 
 - 50+ bank related. (own)
 - 15+ contact forms. (own)
