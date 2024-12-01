@@ -1,0 +1,14 @@
+{
+"flags": "-iE",
+"patterns": [  
+    ".*admin.*",
+    ".*administrator.*",
+    ".*mod.*",
+    ".*moderator.*",
+    ".*dev.*",
+    ".*developer.*",
+    ".*test.*",
+    ".*panel.*",
+    ".*[._-]panel[0-9_-]*"
+    ]
+}

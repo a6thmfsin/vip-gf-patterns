@@ -1,0 +1,27 @@
+{
+    "flags": "-iE",
+     "patterns": [
+
+ "response_type",
+ "code",
+ "token",
+ "client_id",
+ "redirect_uri",
+ "scope",
+ "state",
+ "code_challenge",
+ "code_challenge_method",
+ "prompt",
+ "response_mode",
+ "login_hint",
+ "grant_type",
+ "authorization_code",
+ "client_credentials",
+ "refresh_token",
+ "password",
+ "client_secret",
+ "code_verifier",
+ "confidential"
+ 
+ ]
+}

@@ -1,0 +1,48 @@
+{
+    "flags": "-iE",
+     "patterns": [
+
+ "account",
+ "accounts",
+ "accounting",
+ "calc",
+ "calculator",
+ "setting",
+ "settings",
+ "edit",
+ "password",
+ "credentials",
+ "account-settings",
+ "keys",
+ "api_key",
+ "api_keys",
+ "key",
+ "config",
+ "conf",
+ "private",
+ "exclusive",
+ "confidential",
+ "secret",
+ "secret-key",
+ "secret-keys",
+ "passwords",
+ "reset-password",
+ "reset",
+ "trackingid",
+ "inbox",
+ "undefined",
+ "null",
+ "paymendid",
+ "orderid",
+ "uid",
+ "uuid",
+ "private"
+ 
+ ]
+}
+
+
+
+
+
+

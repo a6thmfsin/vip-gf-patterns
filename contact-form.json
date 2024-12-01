@@ -1,0 +1,17 @@
+{
+    "flags": "-iE",
+     "patterns": [
+ "form",
+ "submit",
+ "application",
+ "template",
+ "Questionnaire",
+ "format",
+ "sheet",
+ "document",
+ "doc",
+ "registration",
+ "survey",
+ "contact"
+ ]
+}
